@@ -7,8 +7,8 @@ NODEJS and EXPRESSJS for BACK-END and API
 MONGO DB as DATABASE.
 
 *** SNAP SHOT OF IMG ***
-![snapshot](https://github.com/[Safiullah-97]/[
-Coin-Hunt-Form-Clone]/blob/[Main]/Coin hunt Form in react.jpeg?raw=true)
+![snapshot](https://github.com/Safiullah-97/
+Coin-Hunt-Form-Clone/blob/Main/Coin hunt Form in react.jpeg?raw=true)
 
 
 
