@@ -6,10 +6,19 @@ REACTJS For FRONT-END
 NODEJS and EXPRESSJS for BACK-END and API
 MONGO DB as DATABASE.
 
-*** SNAP SHOT OF IMG ***
+*** SNAP SHOT OF FRONT END ***
+
+
+
+
 ![Coin hunt Form in react](https://user-images.githubusercontent.com/60542944/150642281-d882136a-aa0c-40d8-9035-ba9b53ebcca8.jpeg)
 
 
+
+***   BACKEND CODING   ***
+
+
+![6pEJqlM](https://user-images.githubusercontent.com/60542944/150642785-b6ba45f5-eba8-4937-87db-25b1b8874f20.gif)
 
 
 
