@@ -1,0 +1,44 @@
+.Main{
+  background-color: white;
+  width: 50%;
+  margin-top: 30px;
+  margin-left: 35ch;
+
+}
+
+
+
+.change{
+    position: relative;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style:italic;
+    font-variant:inherit;
+    font-stretch:ultra-expanded;
+    font-synthesis: style;
+    font-size: 16px;}
+
+    .btn1:hover{
+      background-color: black;
+    }
+
+    .form-group{
+      width: 50px;
+      height: 50px;
+      font-size: 40px;
+      padding-left: 30px;
+    }
+
+    .Container{
+      background-color: #F5F5F5;
+    }
+
+    @media (min-width: "800px"){
+      .Container{
+        display: flexbox;
+        position: relative;
+       font-size: 20px;
+       flex-wrap: wrap;
+       display: flex;
+
+      }
+    }
